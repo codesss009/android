@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204088635026",
+    "project_id": "hw06-5bc6f",
+    "storage_bucket": "hw06-5bc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204088635026:android:6aa9ab834415886bc3404b",
+        "android_client_info": {
+          "package_name": "edu.uncc.hw06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204088635026-6plc1s7ee2anjo0bpoednqdrrq5olg1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ZJiA_3DXQ9vp8bUSr9F15ifOLjRRyMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204088635026-6plc1s7ee2anjo0bpoednqdrrq5olg1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

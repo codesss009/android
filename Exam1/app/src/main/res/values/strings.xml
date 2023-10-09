@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="val_a" />
+    <string name="operator">/</string>
+    <string name="val_b" />
+    <string name="Equal">=</string>
+    <string name="result">N/A</string>
+    <string name="buttoncalculate">Calculate</string>
+    <string name="Reset">Reset</string>
+</resources>

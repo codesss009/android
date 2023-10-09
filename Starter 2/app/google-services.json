@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418448879958",
+    "project_id": "finalexam-63a20",
+    "storage_bucket": "finalexam-63a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418448879958:android:e86f79dee831933024a6f7",
+        "android_client_info": {
+          "package_name": "edu.uncc.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418448879958-elpdu31a6k21pstj0j2cldo2c2u7bvvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7Ei1XzFl4TJDgJcomD8JgDOGLB2psEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418448879958-elpdu31a6k21pstj0j2cldo2c2u7bvvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

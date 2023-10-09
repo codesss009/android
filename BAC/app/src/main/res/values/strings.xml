@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BAC</string>
+    <string name="alcohol_per">0%</string>
+    <string name="alcohol_percentage">12%</string>
+</resources>
